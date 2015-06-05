@@ -1,6 +1,14 @@
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
+# archivos jar
+*.war
+*.jar
+*.ear
+
+#1. rutas de compilacion
+#1.1 maven
+/target/*
 
 # Folder config file
 Desktop.ini
